@@ -1,8 +1,22 @@
-# React + Vite
+To-Do List
+Простое приложение для управления списком задач, созданное с помощью Vite и React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Запуск проекта
+Убедитесь, что у вас установлен Node.js, затем выполните следующие команды:
 
-Currently, two official plugins are available:
+1️⃣ Установка зависимостей:
+npm install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2️⃣ Запуск в режиме разработки:
+npm run dev
+
+После запуска проект будет доступен в браузере по адресу:  
+➡ http://localhost:5173/ (порт может отличаться).  
+При изменении кода страница автоматически обновляется.
+
+
+📌 Дополнительная информация
+- Используется Vite вместо Create React App для более быстрой работы.
+- Код написан на React с использованием современных хуков.
+- Минимальный UI.
+
